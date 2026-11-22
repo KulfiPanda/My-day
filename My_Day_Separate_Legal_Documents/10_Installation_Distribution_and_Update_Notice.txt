@@ -1,0 +1,16 @@
+MY DAY — INSTALLATION, DISTRIBUTION AND UPDATE NOTICE
+Draft for review | Version 1.0 | Effective date: [DATE]
+
+Publisher: [KulfiPanda]
+Official distribution location: [DOWNLOAD / DISTRIBUTION LOCATION]
+
+My Day may be distributed as a ZIP archive or executable installer. Users should obtain the App from the official distribution location and avoid unofficial or modified copies. Users should review Windows security warnings carefully and verify that the file came from the expected publisher.
+
+The publisher should:
+- distribute only builds that have been checked;
+- include the README and relevant legal notices;
+- avoid bundling unrelated software;
+- identify the version and release date;
+- explain how users can report a faulty or suspicious download.
+
+Updates should be downloaded only from [OFFICIAL UPDATE LOCATION] if an update mechanism is later implemented. Do not claim that automatic updates are available unless they are.

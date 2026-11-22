@@ -1,0 +1,37 @@
+MY DAY — PRIVACY POLICY
+Draft for review | Version 1.0 | Effective date: [22/10/2026]
+
+Publisher: [LEGAL NAME]
+Privacy contact: [PRIVACY EMAIL]
+
+1. Scope
+This policy explains how the publisher of My Day (“we”, “us”, “our”) handles information when a person installs or uses the My Day Windows desktop application (“App”).
+
+2. Current offline version
+The current version is designed to work offline and stores app information locally on the user's device. This may include tasks, notes, schedules, preferences, or other content the user enters.
+
+For the current offline version, we do not intentionally transmit locally stored user content to our servers because no server-based feature is currently active. Update this statement if the App begins transmitting information.
+
+3. Future internet-connected features
+Online features are not active merely because they are planned. Before releasing accounts, sync, cloud storage, analytics, crash reporting, or online purchases, we will update this policy and explain the actual information collected, purposes, providers, storage locations, retention periods, and user choices.
+
+Depending on the feature, information could include account details, authentication information, content selected for sync, purchase status, app/device diagnostics, or support messages. Do not collect these categories until the feature and its disclosures are implemented.
+
+4. Purposes and sharing
+If online features are introduced, information will be used for the purposes disclosed for those features, such as providing requested functionality, maintaining accounts, processing purchases, security, diagnostics, or support. We do not sell users' personal information. Any service-provider sharing must be limited to what is needed to operate a disclosed feature, comply with law, or protect the service.
+
+5. Local storage and deletion
+Users are responsible for protecting access to their device and backing up important local data. Uninstalling the App may not remove database or settings files stored separately in the user's profile or selected data folder. The README or in-app help should identify the actual data location and deletion steps.
+
+If online storage is introduced, this policy must explain how users can access, correct, export, or request deletion of online personal data, subject to applicable law.
+
+6. Security
+We use reasonable safeguards appropriate to the App's actual design. No software, device, network, or storage method can be guaranteed completely secure. Do not claim encryption, end-to-end encryption, or cloud backup unless implemented and verified.
+
+7. Children and young users
+If the App is made available to children or young users, the publisher must review applicable age-related requirements, notices, parental-consent requirements, and platform rules before launch. Do not knowingly collect children's personal data online without first meeting applicable legal requirements.
+
+8. Privacy requests and changes
+For privacy questions or requests, contact [PRIVACY EMAIL]. This policy may be updated as the App changes. The latest version should show its effective date and be made available with the App. Material changes should be communicated where required.
+
+This is a draft and must be checked against the App's actual data flows and applicable law before publication.

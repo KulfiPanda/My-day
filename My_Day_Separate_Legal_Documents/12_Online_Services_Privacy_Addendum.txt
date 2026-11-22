@@ -1,0 +1,39 @@
+MY DAY — ONLINE SERVICES PRIVACY ADDENDUM
+INACTIVE DRAFT — COMPLETE AND PUBLISH ONLY BEFORE ONLINE FEATURES LAUNCH
+
+This addendum is not a claim that online features currently exist. Complete it before enabling accounts, sync, cloud storage, analytics, crash reporting, online payments, or any other online processing.
+
+Publisher: [KulfiPanda]
+Effective date: [parthrawat21533@gmail.com]
+
+1. Online features actually offered
+[DESCRIBE EACH FEATURE AND WHETHER IT IS OPTIONAL OR REQUIRED.]
+
+2. Information collected
+[LIST EACH DATA CATEGORY. DO NOT USE VAGUE WORDING.]
+
+3. Purpose for each category
+[EXPLAIN WHY EACH ITEM IS NEEDED.]
+
+4. Service providers
+[IDENTIFY HOSTING, AUTHENTICATION, PAYMENT, EMAIL, ANALYTICS, OR OTHER PROVIDERS.]
+
+5. Data location and transfers
+[IDENTIFY COUNTRIES OR REGIONS WHERE KNOWN AND EXPLAIN RELEVANT TRANSFERS.]
+
+6. Retention and deletion
+[STATE RETENTION PERIODS, ACCOUNT CLOSURE PROCESS, BACKUPS, AND DELETION TIMELINES.]
+
+7. Security controls
+[LIST ONLY CONTROLS ACTUALLY IMPLEMENTED AND TESTED.]
+
+8. User controls
+[EXPLAIN ACCESS, CORRECTION, EXPORT, DELETION, SYNC OPT-OUT, AND OTHER CONTROLS THAT EXIST.]
+
+9. Notices and consent
+[DESCRIBE THE USER NOTICE AND CONSENT FLOW WHERE REQUIRED.]
+
+10. Incident contact
+[SECURITY / PRIVACY EMAIL]
+
+Do not launch online collection until this addendum and in-app disclosures accurately describe the live system and have been reviewed for applicable law.

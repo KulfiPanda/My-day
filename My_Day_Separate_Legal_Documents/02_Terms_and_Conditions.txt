@@ -1,0 +1,38 @@
+MY DAY — TERMS AND CONDITIONS
+Draft for review | Version 1.0 | Effective date: [22/10/2026]
+
+Publisher: [KulfiPanda]
+Contact: [parthrawat21533@gmail.com]
+
+1. Agreement
+These Terms apply to installation and use of My Day. By installing or using the App, the user agrees to these Terms. If the user does not agree, they should not install or use the App.
+
+2. The App
+My Day is a Windows desktop productivity application. Features may differ by version and may include free and paid functionality. A feature is available only if it is included in the installed version or clearly offered for purchase.
+
+3. Permitted use
+Users may use the App for lawful personal or permitted business productivity purposes. Users must not use it to violate law or another person's rights, interfere with or compromise the App, distribute malware, access another user's data without permission, remove proprietary notices, or redistribute or modify the App except where permitted by the licence or applicable law.
+
+4. Accounts and online features
+The current version may operate offline. If accounts, sync, online storage, or other online features are introduced, additional feature-specific terms and a revised Privacy Policy may apply. Users must keep account credentials confidential if accounts are offered.
+
+5. Free and paid features
+Some features may be free and others may require payment. Before purchase, the App or purchase channel should disclose the price, billing period, included features, renewal/cancellation terms, and applicable refund process. Do not assume a subscription or paid feature exists unless it is actually offered.
+
+6. User content
+The user retains ownership of content they create or enter, subject to rights they may have granted to others. The user is responsible for their content and for backups of locally stored data. If online hosting or sync is introduced, any limited permission needed to host, transmit, or display user content must be explained before launch.
+
+7. Updates and availability
+We may release updates, fixes, or changes. We do not promise that every version will remain available forever. We will not describe a feature as available when it has not been released.
+
+8. Suspension or termination
+We may suspend online features or terminate access where reasonably necessary for security, serious misuse, legal compliance, or material breach, subject to applicable law and consumer rights.
+
+9. Disclaimers and liability
+The App is subject to warranties and rights that cannot legally be excluded. To the extent permitted by applicable law, we do not guarantee uninterrupted or error-free operation or that the App will meet every user's requirements. Nothing excludes liability that cannot lawfully be excluded.
+
+10. Governing law
+These Terms are intended to be governed by the laws of India, subject to mandatory consumer-protection rules and the jurisdiction of courts or forums that applicable law requires or permits.
+
+11. Changes
+Updated Terms will show a new effective date. Material changes will be communicated in a reasonable manner where required.

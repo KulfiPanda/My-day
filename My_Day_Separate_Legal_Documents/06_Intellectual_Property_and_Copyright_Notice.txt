@@ -1,0 +1,12 @@
+MY DAY — INTELLECTUAL PROPERTY AND COPYRIGHT NOTICE
+Draft for review | Version 1.0
+
+Copyright (c) [22/10/2026] [KulfiPanda]. All rights reserved, except where a third-party licence states otherwise.
+
+“My Day”, its name, logo, interface, original artwork, documentation, and original software code are protected by applicable intellectual-property laws to the extent owned by or licensed to the publisher.
+
+No permission is granted to copy, republish, sell, or redistribute protected materials except under a written licence or as permitted by law.
+
+Third-party names and trademarks belong to their respective owners. Their mention does not imply endorsement.
+
+Before publishing, confirm ownership or permission for every font, icon, image, sound, library, and other asset included in the App.

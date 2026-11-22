@@ -1,0 +1,31 @@
+MY DAY — END USER LICENCE AGREEMENT (EULA)
+Draft for review | Version 1.0 | Effective date: [DATE]
+
+Publisher/licensor: [LEGAL NAME]
+Contact: [SUPPORT EMAIL]
+
+1. Licence grant
+Subject to this EULA, the publisher grants the user a limited, non-exclusive, non-transferable, revocable licence to install and use the distributed version of My Day on a device controlled by the user, for lawful purposes.
+
+2. Ownership
+The App, its source code, object code, design, branding, graphics, and documentation are owned by or licensed to [LEGAL NAME], except for third-party components governed by their own licences. The user receives a licence to use the App, not ownership of it.
+
+3. Restrictions
+Except where the publisher gives written permission or applicable law allows it, the user must not copy or redistribute the App for commercial distribution; rent, lease, sell, sublicense, or commercially exploit it; modify or create derivative works; reverse engineer, decompile, or disassemble it; remove proprietary notices; or use protected materials to build or promote a competing product.
+
+Nothing in this EULA limits rights that cannot legally be restricted.
+
+4. Backup
+Users may keep a reasonable backup copy for personal recovery where permitted by applicable law and the distribution licence. A backup must retain applicable notices and must not be publicly redistributed.
+
+5. Updates
+Updates may be supplied separately and may be subject to updated licence terms. The publisher is not required to provide updates unless expressly promised or required by law.
+
+6. Termination
+This licence ends if the user materially breaches it. On termination, the user must stop using and delete copies of the App in their control, except where retention is permitted or required by law.
+
+7. Third-party components
+Third-party software may be governed by separate open-source or third-party licences. If a third-party licence conflicts with this EULA for that component, the third-party licence controls to the extent of the conflict.
+
+8. No transfer
+No ownership, patent, trademark, or copyright interest is transferred to the user by installation or use.

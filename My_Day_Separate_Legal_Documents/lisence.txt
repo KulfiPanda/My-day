@@ -1,0 +1,45 @@
+# MY DAY — PROPRIETARY SOFTWARE LICENCE
+
+Copyright © 2026 [YOUR PUBLISHER NAME]. All Rights Reserved.
+
+My Day is proprietary software.
+
+**1. Ownership**
+
+All original source code, application design, branding, graphics, and documentation belonging to My Day remain the intellectual property of their respective owner.
+
+**2. Permission to Use**
+
+Users are granted a limited, non-exclusive, non-transferable licence to install and use the distributed application for lawful personal use.
+
+**3. Restrictions**
+
+Without prior written permission from the copyright owner, users may not:
+
+- Copy or reproduce the application or its original materials.
+- Modify, adapt, or create derivative versions.
+- Reverse engineer, decompile, or disassemble the application, except where legally permitted.
+- Redistribute, republish, or resell the application.
+- Claim ownership of the original My Day software.
+- Use the My Day name, logo, or branding to misrepresent an unofficial product as official.
+
+**4. Third-Party Components**
+
+Third-party libraries and components remain subject to their respective licences. This licence does not override their terms.
+
+**5. Termination**
+
+Permission to use the application may be terminated if these licence conditions are materially violated, subject to applicable law.
+
+**6. No Transfer of Ownership**
+
+Downloading, installing, or purchasing My Day does not transfer ownership of its original intellectual property.
+
+**7. Contact**
+
+For permissions or licensing enquiries:
+
+Publisher: [YOUR NAME / PUBLISHER]
+Email: [YOUR EMAIL]
+
+All rights reserved.

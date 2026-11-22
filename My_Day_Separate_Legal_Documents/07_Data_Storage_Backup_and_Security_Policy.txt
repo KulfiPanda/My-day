@@ -1,0 +1,22 @@
+MY DAY — DATA STORAGE, BACKUP AND SECURITY POLICY
+Draft for review | Version 1.0 | Effective date: [DATE]
+
+Publisher: [KulfiPanda]
+Security contact: [SECURITY EMAIL]
+
+1. Current storage model
+The current version stores app data locally on the user's Windows device. The exact database and configuration paths should be documented in the in-app help or README.
+
+2. User responsibility
+Users should maintain backups of important information. A backup should be stored securely and should not be shared publicly if it contains personal information.
+
+3. Uninstalling
+Uninstalling the App may not remove separately stored databases, settings, or backups. The README should state the actual locations and safe removal steps.
+
+4. Future online storage
+If online sync or cloud storage is introduced, this policy must be updated to state the hosting provider, data location where known, categories of stored information, access controls, retention, deletion process, and backup approach. Do not advertise cloud backup or encryption until those controls are implemented and tested.
+
+5. Security reports
+Report suspected vulnerabilities to [SECURITY EMAIL]. Do not include passwords, private keys, or unnecessary personal data in a report.
+
+No software or storage method can be guaranteed completely secure.

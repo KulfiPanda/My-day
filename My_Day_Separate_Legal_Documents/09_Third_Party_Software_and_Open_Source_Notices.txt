@@ -1,0 +1,19 @@
+MY DAY — THIRD-PARTY SOFTWARE AND OPEN-SOURCE NOTICES
+Draft template — complete before distribution
+
+My Day may include software libraries, frameworks, fonts, icons, or other materials created by third parties.
+
+Maintain a complete list of included components:
+
+Component: [KulfiPanda]
+Version: [1.0]
+Author/project: [KulfiPanda]
+Licence: [LICENCE NAME]
+Source: [SOURCE LOCATION]
+Required notice/attribution: [TEXT OR “SEE LICENCE”]
+
+Repeat this entry for every included component.
+
+Third-party components are provided under their own licences. Those licences may grant rights or impose obligations that differ from the My Day EULA. Do not omit required copyright notices, attribution, source-code offers, or licence texts.
+
+Do not distribute this template as if it were a completed component list. Check the actual packaged build and its dependencies.

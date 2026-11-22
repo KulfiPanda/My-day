@@ -1,0 +1,29 @@
+MY DAY — PUBLISHER LEGAL AND COMPLIANCE CHECKLIST
+Internal checklist — not a user-facing policy
+
+Before release:
+[ ] Replace every placeholder in the legal documents.
+[ ] Confirm the legal publisher/owner and who is authorised to publish.
+[ ] Have a parent/guardian and an Indian lawyer review the publishing and licensing arrangements.
+[ ] Check ownership or permission for all code, fonts, icons, images, sounds, and other assets.
+[ ] Inventory all bundled Python packages and include their licence notices.
+[ ] Verify the actual local database/configuration paths.
+[ ] Verify whether the app sends any network requests in the shipped build.
+[ ] Ensure the Privacy Policy matches actual code and data flows.
+[ ] Ensure the README explains installation, uninstallation, data location, and backup.
+[ ] Keep version numbers and effective dates consistent.
+
+Before enabling online features:
+[ ] Map every data flow, including telemetry and crash reporting.
+[ ] Identify each service provider and its role.
+[ ] Decide data retention and deletion periods.
+[ ] Implement access controls and security measures before claiming them.
+[ ] Add clear user notices and any legally required consent.
+[ ] Provide user access, correction, export, and deletion mechanisms where required.
+[ ] Review applicable Indian privacy, consumer, tax, cybersecurity, and intellectual-property requirements.
+[ ] Update the Privacy Policy, Terms, and Online Services Addendum.
+[ ] Test account closure and data deletion.
+[ ] Review the live payment and cancellation journey if payments are introduced.
+
+Legal note:
+These drafts are not legal advice or a compliance certificate. Publishing policies alone does not make an app compliant. Check laws and commencement dates in force on the actual release date.
